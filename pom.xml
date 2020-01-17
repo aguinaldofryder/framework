@@ -78,4 +78,7 @@
 		</pluginRepository>
 	</pluginRepositories>
 
+	<modules>
+		<module>framework-repository-api</module>
+	</modules>
 </project>
